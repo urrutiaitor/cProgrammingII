@@ -1,0 +1,45 @@
+﻿Compilación iniciada a las 20/02/2014 22:47:15.
+     1>Proyecto "G:\EskolaProiektua 1.1.6\EskolaProiektua\EskolaProiektua.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt menua.c
+         menua.c
+     1>g:\eskolaproiektua 1.1.6\eskolaproiektua\menua.c(32): warning C4013: 'system' sin definir; se supone que extern devuelve como resultado int
+     1>g:\eskolaproiektua 1.1.6\eskolaproiektua\menua.c(47): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>g:\eskolaproiektua 1.1.6\eskolaproiektua\menua.c(57): warning C4013: 'DATUENMODIFIKAZIOA_eskolakoDatuakSartu' sin definir; se supone que extern devuelve como resultado int
+     1>g:\eskolaproiektua 1.1.6\eskolaproiektua\menua.c(75): warning C4013: 'DATUENMODIFIKAZIOA_ikasleBatSartu' sin definir; se supone que extern devuelve como resultado int
+     1>g:\eskolaproiektua 1.1.6\eskolaproiektua\menua.c(78): warning C4013: 'DATUENMODIFIKAZIOA_eskolakoDatuakModifikatu' sin definir; se supone que extern devuelve como resultado int
+     1>g:\eskolaproiektua 1.1.6\eskolaproiektua\menua.c(81): warning C4013: 'DATUENMODIFIKAZIOA_gelaFisikoaAsignatu' sin definir; se supone que extern devuelve como resultado int
+     1>g:\eskolaproiektua 1.1.6\eskolaproiektua\menua.c(84): warning C4013: 'DATUENMODIFIKAZIOA_irakasleakAsignatu' sin definir; se supone que extern devuelve como resultado int
+     1>g:\eskolaproiektua 1.1.6\eskolaproiektua\menua.c(87): warning C4013: 'DATUENMODIFIKAZIOA_tutoreaAsignatu' sin definir; se supone que extern devuelve como resultado int
+     1>g:\eskolaproiektua 1.1.6\eskolaproiektua\menua.c(90): warning C4013: 'DATUENMODIFIKAZIOA_ikasgaiakSartuAdministrazioa' sin definir; se supone que extern devuelve como resultado int
+     1>g:\eskolaproiektua 1.1.6\eskolaproiektua\menua.c(93): warning C4013: 'DATUENMODIFIKAZIOA_eskolakoMailakJarri' sin definir; se supone que extern devuelve como resultado int
+     1>g:\eskolaproiektua 1.1.6\eskolaproiektua\menua.c(112): warning C4013: 'DATUENMODIFIKAZIOA_notakSartu' sin definir; se supone que extern devuelve como resultado int
+     1>g:\eskolaproiektua 1.1.6\eskolaproiektua\menua.c(115): warning C4013: 'BISTARATU_notakBistaratuIrakaslearentzat' sin definir; se supone que extern devuelve como resultado int
+     1>g:\eskolaproiektua 1.1.6\eskolaproiektua\menua.c(118): warning C4013: 'BISTARATU_ikaslearenBatezbestekoa' sin definir; se supone que extern devuelve como resultado int
+     1>g:\eskolaproiektua 1.1.6\eskolaproiektua\menua.c(121): warning C4013: 'BISTARATU_taldekoIkasgaikoBatezbestekoa' sin definir; se supone que extern devuelve como resultado int
+     1>g:\eskolaproiektua 1.1.6\eskolaproiektua\menua.c(124): warning C4013: 'BISTARATU_taldekoBatezbestekoa' sin definir; se supone que extern devuelve como resultado int
+     1>g:\eskolaproiektua 1.1.6\eskolaproiektua\menua.c(127): warning C4013: 'BISTARATU_taldekoBatezbestekoHoberena' sin definir; se supone que extern devuelve como resultado int
+     1>g:\eskolaproiektua 1.1.6\eskolaproiektua\menua.c(130): warning C4013: 'BISTARATU_taldekoIkasleakBatezbestekoarenArabera' sin definir; se supone que extern devuelve como resultado int
+     1>g:\eskolaproiektua 1.1.6\eskolaproiektua\menua.c(151): warning C4013: 'BISTARATU_notakBistaratuIkaslearentzat' sin definir; se supone que extern devuelve como resultado int
+     1>g:\eskolaproiektua 1.1.6\eskolaproiektua\menua.c(175): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>g:\eskolaproiektua 1.1.6\eskolaproiektua\menua.c(193): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>g:\eskolaproiektua 1.1.6\eskolaproiektua\menua.c(211): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>g:\eskolaproiektua 1.1.6\eskolaproiektua\menua.c(222): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>g:\eskolaproiektua 1.1.6\eskolaproiektua\menua.c(237): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\EskolaProiektua 1.1.6\Debug\EskolaProiektua.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\EskolaProiektua 1.1.6\Debug\EskolaProiektua.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\EskolaProiektua 1.1.6\Debug\EskolaProiektua.lib" /MACHINE:X86 Debug\bistaratu.obj
+         Debug\datuenModifikazioa.obj
+         Debug\main.obj
+         Debug\menua.obj
+         EskolaProiektua.vcxproj -> G:\EskolaProiektua 1.1.6\Debug\EskolaProiektua.exe
+     1>Compilación del proyecto terminada "G:\EskolaProiektua 1.1.6\EskolaProiektua\EskolaProiektua.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.69

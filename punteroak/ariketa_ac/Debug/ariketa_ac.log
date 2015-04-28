@@ -1,0 +1,18 @@
+﻿Compilación iniciada a las 24/03/2014 12:36:09.
+     1>Proyecto "C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\punteroak\ariketa_ac\ariketa_ac.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ariketa_ac.c
+         ariketa_ac.c
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\punteroak\ariketa_ac\ariketa_ac.c(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\punteroak\ariketa_ac\ariketa_ac.c(49): warning C4098: 'kateaJaso' : función 'void' que devuelve un valor
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\punteroak\ariketa_ac\ariketa_ac.c(73): warning C4244: '=' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\punteroak\ariketa_ac\ariketa_ac.c(75): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\punteroak\Debug\ariketa_ac.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\punteroak\Debug\ariketa_ac.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\punteroak\Debug\ariketa_ac.lib" /MACHINE:X86 Debug\ariketa_ac.obj
+         ariketa_ac.vcxproj -> C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\punteroak\Debug\ariketa_ac.exe
+     1>Compilación del proyecto terminada "C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\punteroak\ariketa_ac\ariketa_ac.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.95

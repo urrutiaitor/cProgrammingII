@@ -1,0 +1,33 @@
+﻿Compilación iniciada a las 30/04/2014 21:59:23.
+     1>Proyecto "C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\Memoria dinamikoak\ariketa_ab\ariketa_ab.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ariketa_ab.c
+         ariketa_ab.c
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\ariketa_ab\ariketa_ab.c(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\ariketa_ab\ariketa_ab.c(22): warning C4047: 'función' : 'ZENBAKIA *' es distinto en los niveles de direccionamiento indirecto de 'PZENBAKIA *'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\ariketa_ab\ariketa_ab.c(22): warning C4024: 'hasieranSartu' : tipos distintos para el parámetro formal y el parámetro real 1
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\ariketa_ab\ariketa_ab.c(22): warning C4047: '=' : 'PZENBAKIA *' es distinto en los niveles de direccionamiento indirecto de 'ZENBAKIA *'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\ariketa_ab\ariketa_ab.c(26): warning C4013: 'zenbakia' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\ariketa_ab\ariketa_ab.c(27): warning C4047: 'función' : 'ZENBAKIA *' es distinto en los niveles de direccionamiento indirecto de 'PZENBAKIA *'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\ariketa_ab\ariketa_ab.c(27): warning C4024: 'zenbakiaBilatu' : tipos distintos para el parámetro formal y el parámetro real 1
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\ariketa_ab\ariketa_ab.c(27): warning C4047: '=' : 'PZENBAKIA *' es distinto en los niveles de direccionamiento indirecto de 'ZENBAKIA *'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\ariketa_ab\ariketa_ab.c(34): warning C4047: 'función' : 'ZENBAKIA *' es distinto en los niveles de direccionamiento indirecto de 'PZENBAKIA *'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\ariketa_ab\ariketa_ab.c(34): warning C4024: 'zenbakiaEzabatu' : tipos distintos para el parámetro formal y el parámetro real 1
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\ariketa_ab\ariketa_ab.c(34): warning C4047: '=' : 'PZENBAKIA *' es distinto en los niveles de direccionamiento indirecto de 'ZENBAKIA *'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\ariketa_ab\ariketa_ab.c(39): warning C4047: 'función' : 'ZENBAKIA *' es distinto en los niveles de direccionamiento indirecto de 'PZENBAKIA *'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\ariketa_ab\ariketa_ab.c(39): warning C4024: 'zenbakiakBistaratu' : tipos distintos para el parámetro formal y el parámetro real 1
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\ariketa_ab\ariketa_ab.c(57): warning C4013: 'malloc' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\ariketa_ab\ariketa_ab.c(57): warning C4047: '=' : 'ZENBAKIA *' es distinto en los niveles de direccionamiento indirecto de 'int'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\ariketa_ab\ariketa_ab.c(92): warning C4013: 'free' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\ariketa_ab\ariketa_ab.c(127): warning C4098: 'zenbakiakBistaratu' : función 'void' que devuelve un valor
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\ariketa_ab\ariketa_ab.c(136): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\Memoria dinamikoak\Debug\ariketa_ab.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\Memoria dinamikoak\Debug\ariketa_ab.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\Memoria dinamikoak\Debug\ariketa_ab.lib" /MACHINE:X86 Debug\ariketa_ab.obj
+         ariketa_ab.vcxproj -> C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\Memoria dinamikoak\Debug\ariketa_ab.exe
+     1>Compilación del proyecto terminada "C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\Memoria dinamikoak\ariketa_ab\ariketa_ab.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.31

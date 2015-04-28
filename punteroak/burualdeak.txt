@@ -1,0 +1,7 @@
+int  isPalin(const char *s)
+int * nire_strlen (const char *s)
+int irakurZbkErreal (float *f, int *dim)
+int ordenatu (float *f, int dim)
+int nire_strcmp(const char *s1, const char *s2)
+char * nire_strcat(char *s1, const char *s2)
+char  * nire_strstr (const char *s1,  const char *s2)

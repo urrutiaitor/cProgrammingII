@@ -1,0 +1,34 @@
+﻿Compilación iniciada a las 07/03/2014 10:33:22.
+     1>Proyecto "C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\KP1\Ariketa1\Ariketa1.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ariketa1.c
+         ariketa1.c
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\kp1\ariketa1\ariketa1.c(52): warning C4101: 'jubilatuKantitatea' : variable local sin referencia
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\kp1\ariketa1\ariketa1.c(67): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\kp1\ariketa1\ariketa1.c(68): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\kp1\ariketa1\ariketa1.c(69): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\kp1\ariketa1\ariketa1.c(70): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\kp1\ariketa1\ariketa1.c(73): warning C4047: 'función' : 'char *' es distinto en los niveles de direccionamiento indirecto de 'char'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\kp1\ariketa1\ariketa1.c(73): warning C4024: 'strcpy' : tipos distintos para el parámetro formal y el parámetro real 1
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\kp1\ariketa1\ariketa1.c(73): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\kp1\ariketa1\ariketa1.c(75): error C2041: dígito '9' no válido para la base '8'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\kp1\ariketa1\ariketa1.c(88): warning C4047: 'función' : 'char *' es distinto en los niveles de direccionamiento indirecto de 'char'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\kp1\ariketa1\ariketa1.c(88): warning C4024: 'strcpy' : tipos distintos para el parámetro formal y el parámetro real 1
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\kp1\ariketa1\ariketa1.c(107): warning C4047: 'función' : 'char *' es distinto en los niveles de direccionamiento indirecto de 'char'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\kp1\ariketa1\ariketa1.c(107): warning C4024: 'strcpy' : tipos distintos para el parámetro formal y el parámetro real 1
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\kp1\ariketa1\ariketa1.c(121): warning C4047: 'función' : 'char *' es distinto en los niveles de direccionamiento indirecto de 'char'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\kp1\ariketa1\ariketa1.c(121): warning C4024: 'strcpy' : tipos distintos para el parámetro formal y el parámetro real 1
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\kp1\ariketa1\ariketa1.c(135): warning C4047: 'función' : 'char *' es distinto en los niveles de direccionamiento indirecto de 'char'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\kp1\ariketa1\ariketa1.c(135): warning C4024: 'strcpy' : tipos distintos para el parámetro formal y el parámetro real 1
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\kp1\ariketa1\ariketa1.c(281): warning C4098: 'jubilatuetaraPasatu' : función 'void' que devuelve un valor
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\kp1\ariketa1\ariketa1.c(299): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>Compilación del proyecto terminada "C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\KP1\Ariketa1\Ariketa1.vcxproj" (Build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:02.19

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.c" />
+    <ClCompile Include="menua.c" />
+    <ClCompile Include="bistaratu.c" />
+    <ClCompile Include="datuenModifikazioa.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h" />
+    <ClInclude Include="menua.h" />
+    <ClInclude Include="bistaratu.h" />
+    <ClInclude Include="datuenModifikazioa.h" />
+  </ItemGroup>
+</Project>

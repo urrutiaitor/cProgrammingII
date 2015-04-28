@@ -1,0 +1,1 @@
+Fitxeroetatik datu egiturara informazio guztia pasatu, horrekin lan egiten eta programa ixterakoan berri fitxerora bueltatu

@@ -1,0 +1,187 @@
+﻿Compilación iniciada a las 12/05/2014 21:17:14.
+     1>Proyecto "C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\EskolaProiektua\ProbaEskolaProiektua 1.2.1\EskolaProiektua\EskolaProiektua.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt bistaratu.c datuenModifikazioa.c main.c menua.c
+         menua.c
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\menua.c(32): warning C4013: 'system' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\menua.c(46): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\menua.c(55): warning C4013: 'DATUENMODIFIKAZIOA_eskolakoDatuakSartu' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\menua.c(71): warning C4013: 'DATUENMODIFIKAZIOA_ikasleBatSartu' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\menua.c(74): warning C4013: 'DATUENMODIFIKAZIOA_eskolakoDatuakModifikatu' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\menua.c(77): warning C4013: 'DATUENMODIFIKAZIOA_gelaFisikoaAsignatu' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\menua.c(80): warning C4013: 'DATUENMODIFIKAZIOA_irakasleakAsignatu' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\menua.c(83): warning C4013: 'DATUENMODIFIKAZIOA_tutoreaAsignatu' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\menua.c(86): warning C4013: 'DATUENMODIFIKAZIOA_ikasgaiakSartuAdministrazioa' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\menua.c(89): warning C4013: 'DATUENMODIFIKAZIOA_eskolakoMailakJarri' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\menua.c(106): warning C4013: 'DATUENMODIFIKAZIOA_notakSartu' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\menua.c(109): warning C4013: 'BISTARATU_notakBistaratuIrakaslearentzat' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\menua.c(112): warning C4013: 'BISTARATU_ikaslearenBatezbestekoa' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\menua.c(115): warning C4013: 'BISTARATU_taldekoIkasgaikoBatezbestekoa' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\menua.c(118): warning C4013: 'BISTARATU_taldekoBatezbestekoa' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\menua.c(121): warning C4013: 'BISTARATU_taldekoBatezbestekoHoberena' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\menua.c(124): warning C4013: 'BISTARATU_taldekoIkasleakBatezbestekoarenArabera' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\menua.c(145): warning C4013: 'BISTARATU_notakBistaratuIkaslearentzat' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\menua.c(169): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\menua.c(187): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\menua.c(205): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\menua.c(216): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\menua.c(231): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+         main.c
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.c(25): warning C4013: 'DATUENMODIFIKAZIOA_eskolakoDatuakSartu' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.c(28): warning C4013: 'MENUA_erabiltzaileaAukeratu' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.c(45): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.c(46): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.c(51): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.c(52): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.c(58): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.c(68): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.c(69): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.c(77): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.c(87): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+         datuenModifikazioa.c
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(30): warning C4013: 'BISTARATU_gelaAukeratu' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(38): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(44): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(45): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(46): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(66): warning C4020: 'DATUENMODIFIKAZIOA_ikaslearenIkasgaiakSartu' : hay demasiados parámetros reales
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(135): error C2039: 'irakasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(135): error C2198: 'gets' : no hay suficientes argumentos para la llamada
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(138): error C2039: 'irakasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(138): error C2198: 'gets' : no hay suficientes argumentos para la llamada
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(141): error C2039: 'irakasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(144): error C2039: 'irakasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(147): error C2039: 'irakasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(150): error C2039: 'irakasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(166): error C2039: 'tutorea' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(166): error C2198: 'gets' : no hay suficientes argumentos para la llamada
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(169): error C2039: 'tutorea' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(169): error C2198: 'gets' : no hay suficientes argumentos para la llamada
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(172): error C2039: 'tutorea' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(175): error C2039: 'tutorea' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(178): error C2039: 'tutorea' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(181): error C2039: 'tutorea' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(192): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(192): error C2198: 'gets' : no hay suficientes argumentos para la llamada
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(195): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(195): error C2198: 'gets' : no hay suficientes argumentos para la llamada
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(198): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(201): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(204): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(207): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(224): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(231): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(234): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(265): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(268): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\datuenmodifikazioa.c(269): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+         bistaratu.c
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(22): warning C4013: 'system' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(30): warning C4047: '=' : 'int' es distinto en los niveles de direccionamiento indirecto de 'int (__cdecl *)(ESKOLA *)'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(37): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(43): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(52): warning C4047: '=' : 'int' es distinto en los niveles de direccionamiento indirecto de 'int (__cdecl *)(ESKOLA *)'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(66): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(75): warning C4047: '=' : 'int' es distinto en los niveles de direccionamiento indirecto de 'int (__cdecl *)(ESKOLA *)'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(79): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(84): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(86): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(87): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(96): warning C4047: '=' : 'int' es distinto en los niveles de direccionamiento indirecto de 'int (__cdecl *)(ESKOLA *)'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(108): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(109): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(124): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(126): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(128): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(141): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(152): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(164): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(168): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(169): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(170): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(171): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\bistaratu.c(172): error C2039: 'ikasleak' : no es un miembro de 'gela'
+                 c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\probaeskolaproiektua 1.2.1\eskolaproiektua\main.h(49) : vea la declaración de 'gela'
+         Generando código...
+     1>Compilación del proyecto terminada "C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\EskolaProiektua\ProbaEskolaProiektua 1.2.1\EskolaProiektua\EskolaProiektua.vcxproj" (Build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:04.42

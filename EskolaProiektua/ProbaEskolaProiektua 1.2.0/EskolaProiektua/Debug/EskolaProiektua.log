@@ -1,0 +1,89 @@
+﻿Compilación iniciada a las 20/02/2014 9:42:38.
+     1>Proyecto "C:\Users\Aitor\Documents\MGEP\1\Programazioa II\src\EskolaProiektua 1.1.5\EskolaProiektua\EskolaProiektua.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt datuenModifikazioa.c
+         datuenModifikazioa.c
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(30): warning C4013: 'BISTARATU_gelaAukeratu' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(38): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(46): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(66): warning C4020: 'DATUENMODIFIKAZIOA_ikaslearenIkasgaiakSartu' : hay demasiados parámetros reales
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(82): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(91): warning C4102: 'case3' : etiqueta sin referencia
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(88): warning C4102: 'case2' : etiqueta sin referencia
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(85): warning C4102: 'case1' : etiqueta sin referencia
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(132): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(135): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : vea la declaración de 'gets'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(138): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : vea la declaración de 'gets'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(141): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(144): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(147): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(150): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(163): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(166): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : vea la declaración de 'gets'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(169): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : vea la declaración de 'gets'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(172): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(175): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(178): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(181): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(192): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : vea la declaración de 'gets'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(195): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : vea la declaración de 'gets'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(198): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(201): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(204): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(207): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(228): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(240): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(263): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(273): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(293): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : vea la declaración de 'gets'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(305): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : vea la declaración de 'gets'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(311): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : vea la declaración de 'gets'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(314): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(317): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(323): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\documents\mgep\1\programazioa ii\src\eskolaproiektua 1.1.5\eskolaproiektua\datuenmodifikazioa.c(340): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : vea la declaración de 'gets'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Aitor\Documents\MGEP\1\Programazioa II\src\EskolaProiektua 1.1.5\Debug\EskolaProiektua.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Aitor\Documents\MGEP\1\Programazioa II\src\EskolaProiektua 1.1.5\Debug\EskolaProiektua.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Aitor\Documents\MGEP\1\Programazioa II\src\EskolaProiektua 1.1.5\Debug\EskolaProiektua.lib" /MACHINE:X86 Debug\bistaratu.obj
+         Debug\datuenModifikazioa.obj
+         Debug\main.obj
+         Debug\menua.obj
+         EskolaProiektua.vcxproj -> C:\Users\Aitor\Documents\MGEP\1\Programazioa II\src\EskolaProiektua 1.1.5\Debug\EskolaProiektua.exe
+     1>Compilación del proyecto terminada "C:\Users\Aitor\Documents\MGEP\1\Programazioa II\src\EskolaProiektua 1.1.5\EskolaProiektua\EskolaProiektua.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.29

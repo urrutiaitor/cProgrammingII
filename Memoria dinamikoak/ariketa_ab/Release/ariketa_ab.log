@@ -1,0 +1,22 @@
+﻿Compilación iniciada a las 29/04/2014 19:39:35.
+     1>Proyecto "C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\Memoria dinamikoak\ariketa_ab\ariketa_ab.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ariketa_ab.c
+         ariketa_ab.c
+     1>ariketa_ab.c(18): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(254) : vea la declaración de 'gets'
+     1>ariketa_ab.c(19): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : vea la declaración de 'sscanf'
+     1>ariketa_ab.c(31): warning C4013: 'malloc' sin definir; se supone que extern devuelve como resultado int
+     1>ariketa_ab.c(31): warning C4047: '=' : 'ZENBAKIA *' es distinto en los niveles de direccionamiento indirecto de 'int'
+     1>ariketa_ab.c(67): warning C4098: 'zenbakiaEzabatu' : función 'void' que devuelve un valor
+     1>ariketa_ab.c(80): warning C4098: 'zenbakiakBistaratu' : función 'void' que devuelve un valor
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\Memoria dinamikoak\Release\ariketa_ab.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\Memoria dinamikoak\Release\ariketa_ab.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\Memoria dinamikoak\Release\ariketa_ab.lib" /MACHINE:X86 /SAFESEH Release\ariketa_ab.obj
+     1>MSVCRT.lib(crtexe.obj) : error LNK2001: símbolo externo _main sin resolver
+     1>C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\Memoria dinamikoak\Release\ariketa_ab.exe : fatal error LNK1120: 1 externos sin resolver
+     1>Compilación del proyecto terminada "C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\Memoria dinamikoak\ariketa_ab\ariketa_ab.vcxproj" (Build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:00.59

@@ -1,0 +1,82 @@
+﻿Compilación iniciada a las 17/06/2014 21:00:36.
+     1>Proyecto "C:\Users\Aitor\OneDrive\Documentos\MGEP\1\Programazioa II\src\EskolaProiektua\EskolaProiektua 1.0.0\EskolaProiektua\EskolaProiektua.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt bistaratu.c datuenModifikazioa.c main.c menua.c
+         menua.c
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\menua.c(14): warning C4013: 'MENUA_eskolaAukeratuAdministratzailea' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\menua.c(38): warning C4013: 'BISTARATU_eskolaAukeratu' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\menua.c(42): warning C4013: 'DATUENMODIFIKAZIOA_eskolakoDatuakSartu' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\menua.c(63): warning C4013: 'DATUENMODIFIKAZIOA_ikasleBatSartu' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\menua.c(67): warning C4013: 'DATUENMODIFIKAZIOA_ikasleakGeletanBanatu' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\menua.c(71): warning C4013: 'DATUENMODIFIKAZIOA_gelaFisikoaAsignatu' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\menua.c(75): warning C4013: 'DATUENMODIFIKAZIOA_tutoreaAsignatu' sin definir; se supone que extern devuelve como resultado int
+         main.c
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\main.c(23): warning C4013: 'MENUA_erabiltzaileaAukeratu' sin definir; se supone que extern devuelve como resultado int
+         datuenModifikazioa.c
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(5): error C2146: error de sintaxis : falta ')' delante del identificador 'enpresa'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(5): error C2061: error de sintaxis : identificador 'enpresa'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(5): error C2059: error de sintaxis : ';'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(5): error C3409: no se permite un bloque de atributos vacío
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(5): error C2143: error de sintaxis : falta ']' delante de 'constante'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(5): error C2059: error de sintaxis : ')'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(6): error C2146: error de sintaxis : falta ')' delante del identificador 'enpresa'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(6): error C2061: error de sintaxis : identificador 'enpresa'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(6): error C2059: error de sintaxis : ';'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(6): error C3409: no se permite un bloque de atributos vacío
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(6): error C2143: error de sintaxis : falta ']' delante de 'constante'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(6): error C2059: error de sintaxis : ')'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(7): error C2146: error de sintaxis : falta ')' delante del identificador 'enpresa'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(7): error C2061: error de sintaxis : identificador 'enpresa'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(7): error C2059: error de sintaxis : ';'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(7): error C3409: no se permite un bloque de atributos vacío
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(7): error C2143: error de sintaxis : falta ']' delante de 'constante'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(7): error C2059: error de sintaxis : ')'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(8): error C2146: error de sintaxis : falta ')' delante del identificador 'enpresa'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(8): error C2061: error de sintaxis : identificador 'enpresa'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(8): error C2059: error de sintaxis : ';'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(8): error C3409: no se permite un bloque de atributos vacío
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(8): error C2143: error de sintaxis : falta ']' delante de 'constante'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(8): error C2059: error de sintaxis : ')'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(9): error C2146: error de sintaxis : falta ')' delante del identificador 'enpresa'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(9): error C2061: error de sintaxis : identificador 'enpresa'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(9): error C2059: error de sintaxis : ';'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(9): error C3409: no se permite un bloque de atributos vacío
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(9): error C2143: error de sintaxis : falta ']' delante de 'constante'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(9): error C2059: error de sintaxis : ')'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(10): error C2146: error de sintaxis : falta ')' delante del identificador 'enpresa'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(10): error C2061: error de sintaxis : identificador 'enpresa'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(10): error C2059: error de sintaxis : ';'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(10): error C3409: no se permite un bloque de atributos vacío
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(10): error C2143: error de sintaxis : falta ']' delante de 'constante'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(10): error C2059: error de sintaxis : ')'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(11): error C2146: error de sintaxis : falta ')' delante del identificador 'enpresa'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(11): error C2061: error de sintaxis : identificador 'enpresa'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(11): error C2059: error de sintaxis : ';'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(11): error C3409: no se permite un bloque de atributos vacío
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(11): error C2143: error de sintaxis : falta ']' delante de 'constante'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(11): error C2059: error de sintaxis : ')'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(12): error C2146: error de sintaxis : falta ')' delante del identificador 'enpresa'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(12): error C2061: error de sintaxis : identificador 'enpresa'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(12): error C2059: error de sintaxis : ';'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(12): error C3409: no se permite un bloque de atributos vacío
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(12): error C2143: error de sintaxis : falta ']' delante de 'constante'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(12): error C2059: error de sintaxis : ')'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(13): error C2146: error de sintaxis : falta ')' delante del identificador 'enpresa'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(13): error C2061: error de sintaxis : identificador 'enpresa'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(13): error C2059: error de sintaxis : ';'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(13): error C3409: no se permite un bloque de atributos vacío
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(13): error C2143: error de sintaxis : falta ']' delante de 'constante'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\datuenmodifikazioa.h(13): error C2059: error de sintaxis : ')'
+         bistaratu.c
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\bistaratu.c(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\bistaratu.c(28): error C2440: 'función' : no se puede realizar la conversión de 'ENPRESA' a 'ENPRESA *'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\bistaratu.c(28): warning C4024: 'BISTARATU_eskolaAukeratu' : tipos distintos para el parámetro formal y el parámetro real 1
+         Generando código...
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\menua.c(51): warning C4716: 'MENUA_eskolaAukeratuBesteak' : debe devolver un valor
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 1.0.0\eskolaproiektua\menua.c(46): warning C4716: 'MENUA_eskolaAukeratuAdministratzailea' : debe devolver un valor
+     1>Compilación del proyecto terminada "C:\Users\Aitor\OneDrive\Documentos\MGEP\1\Programazioa II\src\EskolaProiektua\EskolaProiektua 1.0.0\EskolaProiektua\EskolaProiektua.vcxproj" (Build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:00.72

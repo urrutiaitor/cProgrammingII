@@ -1,0 +1,28 @@
+﻿Compilación iniciada a las 18/06/2014 17:50:30.
+     1>Proyecto "C:\Users\Aitor\OneDrive\Documentos\MGEP\1\Programazioa II\src\EskolaProiektua\EskolaProiektua 2.0.0\EskolaProiektua\EskolaProiektua.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 2.0.0\eskolaproiektua\main.c(27): warning C4020: 'hasieraketa' : hay demasiados parámetros reales
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 2.0.0\eskolaproiektua\main.c(35): warning C4013: 'datuBaseaIrakurri' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 2.0.0\eskolaproiektua\main.c(37): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 2.0.0\eskolaproiektua\main.c(40): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 2.0.0\eskolaproiektua\main.c(47): warning C4013: 'DATUENMODIFIKAZIOA_usuarioBatSartu' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 2.0.0\eskolaproiektua\main.c(53): warning C4013: 'MENUA_menukoAukerak' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 2.0.0\eskolaproiektua\main.c(62): warning C4029: la lista de parámetros formales declarada es distinta de la definición
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 2.0.0\eskolaproiektua\main.c(69): warning C4047: '=' : 'int' es distinto en los niveles de direccionamiento indirecto de 'void *'
+     1>c:\users\aitor\onedrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua\eskolaproiektua 2.0.0\eskolaproiektua\main.c(74): warning C4047: '=' : 'int' es distinto en los niveles de direccionamiento indirecto de 'void *'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Aitor\OneDrive\Documentos\MGEP\1\Programazioa II\src\EskolaProiektua\EskolaProiektua 2.0.0\Debug\EskolaProiektua.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Aitor\OneDrive\Documentos\MGEP\1\Programazioa II\src\EskolaProiektua\EskolaProiektua 2.0.0\Debug\EskolaProiektua.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Aitor\OneDrive\Documentos\MGEP\1\Programazioa II\src\EskolaProiektua\EskolaProiektua 2.0.0\Debug\EskolaProiektua.lib" /MACHINE:X86 Debug\bistaratu.obj
+         Debug\datuenModifikazioa.obj
+         Debug\fitxeroetakoDatuak.obj
+         Debug\main.obj
+         Debug\menua.obj
+         EskolaProiektua.vcxproj -> C:\Users\Aitor\OneDrive\Documentos\MGEP\1\Programazioa II\src\EskolaProiektua\EskolaProiektua 2.0.0\Debug\EskolaProiektua.exe
+     1>Compilación del proyecto terminada "C:\Users\Aitor\OneDrive\Documentos\MGEP\1\Programazioa II\src\EskolaProiektua\EskolaProiektua 2.0.0\EskolaProiektua\EskolaProiektua.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.69

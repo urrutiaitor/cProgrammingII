@@ -1,0 +1,26 @@
+﻿Compilación iniciada a las 06/03/2014 9:30:52.
+     1>Proyecto "C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\EskolaProiektua 1.2.0\EskolaProiektua\EskolaProiektua.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua 1.2.0\eskolaproiektua\main.c(30): warning C4013: 'DATUENMODIFIKAZIOA_eskolakoDatuakSartu' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua 1.2.0\eskolaproiektua\main.c(35): warning C4013: 'MENUA_erabiltzaileaAukeratu' sin definir; se supone que extern devuelve como resultado int
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua 1.2.0\eskolaproiektua\main.c(79): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua 1.2.0\eskolaproiektua\main.c(83): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua 1.2.0\eskolaproiektua\main.c(103): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : vea la declaración de 'fopen'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\eskolaproiektua 1.2.0\eskolaproiektua\main.c(125): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : vea la declaración de 'fopen'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\EskolaProiektua 1.2.0\Debug\EskolaProiektua.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\EskolaProiektua 1.2.0\Debug\EskolaProiektua.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\EskolaProiektua 1.2.0\Debug\EskolaProiektua.lib" /MACHINE:X86 Debug\bistaratu.obj
+         Debug\datuenModifikazioa.obj
+         Debug\main.obj
+         Debug\menua.obj
+         EskolaProiektua.vcxproj -> C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\EskolaProiektua 1.2.0\Debug\EskolaProiektua.exe
+     1>Compilación del proyecto terminada "C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\EskolaProiektua 1.2.0\EskolaProiektua\EskolaProiektua.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.12

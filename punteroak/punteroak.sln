@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ariketa_aa", "ariketa_aa\ariketa_aa.vcxproj", "{BE1FDAD7-5220-4043-8D6C-74A9F6ECA86C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ariketa_ab", "ariketa_ab\ariketa_ab.vcxproj", "{A4816A77-5A19-4402-9DA3-DEBE0FC5798D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ariketa_ac", "ariketa_ac\ariketa_ac.vcxproj", "{F5879D0F-D7D6-4C5C-BD1C-F37007431DAD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ariketa_ad", "ariketa_ad\ariketa_ad.vcxproj", "{62AFC999-C79F-49A8-B9C9-6016A224EB5B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ariketa_ae", "ariketa_ae\ariketa_ae.vcxproj", "{771E97B6-C3A7-4F14-A1D2-E95FDD2AF8ED}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ariketa_af", "ariketa_af\ariketa_af.vcxproj", "{81696739-AF2B-4747-8923-6740CA4070C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE1FDAD7-5220-4043-8D6C-74A9F6ECA86C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BE1FDAD7-5220-4043-8D6C-74A9F6ECA86C}.Debug|Win32.Build.0 = Debug|Win32
+		{BE1FDAD7-5220-4043-8D6C-74A9F6ECA86C}.Release|Win32.ActiveCfg = Release|Win32
+		{BE1FDAD7-5220-4043-8D6C-74A9F6ECA86C}.Release|Win32.Build.0 = Release|Win32
+		{A4816A77-5A19-4402-9DA3-DEBE0FC5798D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A4816A77-5A19-4402-9DA3-DEBE0FC5798D}.Debug|Win32.Build.0 = Debug|Win32
+		{A4816A77-5A19-4402-9DA3-DEBE0FC5798D}.Release|Win32.ActiveCfg = Release|Win32
+		{A4816A77-5A19-4402-9DA3-DEBE0FC5798D}.Release|Win32.Build.0 = Release|Win32
+		{F5879D0F-D7D6-4C5C-BD1C-F37007431DAD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F5879D0F-D7D6-4C5C-BD1C-F37007431DAD}.Debug|Win32.Build.0 = Debug|Win32
+		{F5879D0F-D7D6-4C5C-BD1C-F37007431DAD}.Release|Win32.ActiveCfg = Release|Win32
+		{F5879D0F-D7D6-4C5C-BD1C-F37007431DAD}.Release|Win32.Build.0 = Release|Win32
+		{62AFC999-C79F-49A8-B9C9-6016A224EB5B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{62AFC999-C79F-49A8-B9C9-6016A224EB5B}.Debug|Win32.Build.0 = Debug|Win32
+		{62AFC999-C79F-49A8-B9C9-6016A224EB5B}.Release|Win32.ActiveCfg = Release|Win32
+		{62AFC999-C79F-49A8-B9C9-6016A224EB5B}.Release|Win32.Build.0 = Release|Win32
+		{771E97B6-C3A7-4F14-A1D2-E95FDD2AF8ED}.Debug|Win32.ActiveCfg = Debug|Win32
+		{771E97B6-C3A7-4F14-A1D2-E95FDD2AF8ED}.Debug|Win32.Build.0 = Debug|Win32
+		{771E97B6-C3A7-4F14-A1D2-E95FDD2AF8ED}.Release|Win32.ActiveCfg = Release|Win32
+		{771E97B6-C3A7-4F14-A1D2-E95FDD2AF8ED}.Release|Win32.Build.0 = Release|Win32
+		{81696739-AF2B-4747-8923-6740CA4070C3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{81696739-AF2B-4747-8923-6740CA4070C3}.Debug|Win32.Build.0 = Debug|Win32
+		{81696739-AF2B-4747-8923-6740CA4070C3}.Release|Win32.ActiveCfg = Release|Win32
+		{81696739-AF2B-4747-8923-6740CA4070C3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

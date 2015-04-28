@@ -1,0 +1,16 @@
+﻿Compilación iniciada a las 07/04/2014 12:53:16.
+     1>Proyecto "C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\KP\KP3\ariketa_aa\ariketa_aa.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ariketa_aa.c
+         ariketa_aa.c
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\kp\kp3\ariketa_aa\ariketa_aa.c(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : vea la declaración de 'scanf'
+     1>c:\users\aitor\skydrive\documentos\mgep\1\programazioa ii\src\kp\kp3\ariketa_aa\ariketa_aa.c(42): warning C4098: 'visuDec2binary' : función 'void' que devuelve un valor
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\KP\KP3\Debug\ariketa_aa.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\KP\KP3\Debug\ariketa_aa.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\KP\KP3\Debug\ariketa_aa.lib" /MACHINE:X86 Debug\ariketa_aa.obj
+         ariketa_aa.vcxproj -> C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\KP\KP3\Debug\ariketa_aa.exe
+     1>Compilación del proyecto terminada "C:\Users\Aitor\SkyDrive\Documentos\MGEP\1\Programazioa II\src\KP\KP3\ariketa_aa\ariketa_aa.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.87

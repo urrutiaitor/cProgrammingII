@@ -1,0 +1,22 @@
+﻿Compilación iniciada a las 11/05/2014 18:59:37.
+     1>Proyecto "C:\Users\AitorUrrutia\SkyDrive\Documentos\MGEP\1\Programazioa II\src\Memoria dinamikoak\kolaDinamikoa\kolaDinamikoa.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "aplikaziñoik.c"
+         aplikaziñoik.c
+     1>c:\users\aitorurrutia\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\koladinamikoa\aplikaziñoik.c(15): warning C4047: 'función' : 'LANA **' es distinto en los niveles de direccionamiento indirecto de 'LANA *'
+     1>c:\users\aitorurrutia\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\koladinamikoa\aplikaziñoik.c(15): warning C4024: 'lanekoDatuk' : tipos distintos para el parámetro formal y el parámetro real 1
+     1>c:\users\aitorurrutia\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\koladinamikoa\aplikaziñoik.c(24): warning C4133: '=' : tipos incompatibles, de 'LANA *' a 'LANA *'
+     1>c:\users\aitorurrutia\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\koladinamikoa\aplikaziñoik.c(27): warning C4133: '=' : tipos incompatibles, de 'LANA *' a 'LANA *'
+     1>c:\users\aitorurrutia\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\koladinamikoa\aplikaziñoik.c(54): warning C4133: '=' : tipos incompatibles, de 'LANA *' a 'LANA *'
+     1>c:\users\aitorurrutia\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\koladinamikoa\aplikaziñoik.c(88): warning C4715: 'imprimiu' : no todas las rutas de acceso de control devuelven un valor
+     1>c:\users\aitorurrutia\skydrive\documentos\mgep\1\programazioa ii\src\memoria dinamikoak\koladinamikoa\aplikaziñoik.c(92): warning C4716: 'imprimiuFisikoki' : debe devolver un valor
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\AitorUrrutia\SkyDrive\Documentos\MGEP\1\Programazioa II\src\Memoria dinamikoak\Debug\kolaDinamikoa.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\AitorUrrutia\SkyDrive\Documentos\MGEP\1\Programazioa II\src\Memoria dinamikoak\Debug\kolaDinamikoa.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\AitorUrrutia\SkyDrive\Documentos\MGEP\1\Programazioa II\src\Memoria dinamikoak\Debug\kolaDinamikoa.lib" /MACHINE:X86 "Debug\aplikaziñoik.obj"
+         Debug\kolaAldaketak.obj
+         Debug\kolaDinamikoa.obj
+         kolaDinamikoa.vcxproj -> C:\Users\AitorUrrutia\SkyDrive\Documentos\MGEP\1\Programazioa II\src\Memoria dinamikoak\Debug\kolaDinamikoa.exe
+     1>Compilación del proyecto terminada "C:\Users\AitorUrrutia\SkyDrive\Documentos\MGEP\1\Programazioa II\src\Memoria dinamikoak\kolaDinamikoa\kolaDinamikoa.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.15

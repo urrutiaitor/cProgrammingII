@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fitxeroakSortu", "fitxeroakSortu\fitxeroakSortu.vcxproj", "{B430F18B-DE5E-4F6C-B112-D8CD9432E123}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OrdenatzeMetodoak", "OrdenatzeMetodoak\OrdenatzeMetodoak.vcxproj", "{905D070E-4952-409C-A4BB-A9E4C4038250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B430F18B-DE5E-4F6C-B112-D8CD9432E123}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B430F18B-DE5E-4F6C-B112-D8CD9432E123}.Debug|Win32.Build.0 = Debug|Win32
+		{B430F18B-DE5E-4F6C-B112-D8CD9432E123}.Release|Win32.ActiveCfg = Release|Win32
+		{B430F18B-DE5E-4F6C-B112-D8CD9432E123}.Release|Win32.Build.0 = Release|Win32
+		{905D070E-4952-409C-A4BB-A9E4C4038250}.Debug|Win32.ActiveCfg = Debug|Win32
+		{905D070E-4952-409C-A4BB-A9E4C4038250}.Debug|Win32.Build.0 = Debug|Win32
+		{905D070E-4952-409C-A4BB-A9E4C4038250}.Release|Win32.ActiveCfg = Release|Win32
+		{905D070E-4952-409C-A4BB-A9E4C4038250}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

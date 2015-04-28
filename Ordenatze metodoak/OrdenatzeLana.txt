@@ -1,0 +1,18 @@
+Egin beharreko lana: 
+
+Ordenatze Metodoak
+· Txostena : 
+
+1. Sarrera(Zertarako dira Ordenatze Metodoak?) 
+2. Ordenatze Metodo Desberdinak (Bakoitzaren Deskribapena+Algoritmoa) 
+3. Ordenatze Metodoen arteko Konparaketa 
+4. Ondorioak (Zeintzu(k) dira egokiena(k) eta zergatiak) 
+
+SW Dokumentua 
+· Txostena: 
+
+1. Sarrera: Programaren funtzio nagusia zein den adierazi 
+2. SW Egitura: SW Proiektuak dituen fitxategi ezberdinak zein diren (.h eta .c) eta bakoitzaren egitekoa zein den adierazi modu orokor batean. 
+3. SW Funtzioen Deskribapena: .h bakoitzean dituzuen funtzio bakoitzaren egitekoa adierazi. 
+4. Erakusleak: Zergatik erabili dituzu. Onurak 
+5. Fitxategiak: Zergatik erabili dituzu. Onurak. 
